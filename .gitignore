@@ -1,0 +1,12 @@
+Wanbat/Builds/
+Wanbat/Temp/
+Wanbat/Library/
+Wanbat/obj/
+
+*.csproj
+*.unityproj
+*.userprefs
+*.sln
+*.suo
+
+.DS_Store
