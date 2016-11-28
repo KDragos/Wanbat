@@ -1,7 +1,7 @@
-Wanbat/Builds/
-Wanbat/Temp/
-Wanbat/Library/
-Wanbat/obj/
+/Wanbat/Builds/
+/Wanbat/Temp/
+/Wanbat/Library/
+/Wanbat/obj/
 
 *.csproj
 *.unityproj
